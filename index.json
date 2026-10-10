@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "platformdirs",
+  "versions": [
+    {
+      "commit": "b3174fdd4e80c83d72cf723fd2a7bb6cb54cbd5f",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:16:42.036596+00:00"
+    }
+  ]
+}
